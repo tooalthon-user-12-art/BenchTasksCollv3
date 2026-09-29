@@ -1,14 +1,5 @@
 # Task: monitoring-agent
 
-## Overview
-This task involves implementing a monitoring agent.
+## Description
+Complete the implementation for monitoring-agent
 
-## Requirements
-- Monitor system metrics
-- Alert on anomalies
-- Generate reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

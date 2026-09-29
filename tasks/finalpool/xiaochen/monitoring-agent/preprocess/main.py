@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-"""Preprocess script for monitoring-agent task."""
+# Preprocessing script
+print('Preprocessing completed')
 
-import sys
-import os
-
-def main():
-    print("Starting preprocessing for monitoring-agent...")
-    # Preprocessing logic here
-    pass
-
-if __name__ == "__main__":
-    main()

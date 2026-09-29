@@ -1,1 +1,2 @@
-This is the groundtruth workspace for asset-optimizer task.
+Groundtruth data for asset-optimizer
+

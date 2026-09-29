@@ -1,14 +1,5 @@
 # Task: content-manager
 
-## Overview
-This task involves implementing a content management system.
+## Description
+Complete the implementation for content-manager
 
-## Requirements
-- Manage content
-- Organize content
-- Generate reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

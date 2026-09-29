@@ -1,1 +1,2 @@
-This is the groundtruth workspace for monitoring-agent task.
+Groundtruth data for monitoring-agent
+

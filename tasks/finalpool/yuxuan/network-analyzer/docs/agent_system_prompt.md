@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for network-analyzer task.
+Please complete the implementation for network-analyzer in a beautiful way!
 
-## Requirements
-- Analyze network traffic
-- Generate reports
-- Handle multiple formats
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

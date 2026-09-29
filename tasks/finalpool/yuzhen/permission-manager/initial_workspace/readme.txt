@@ -1,1 +1,2 @@
-This is the initial workspace for permission-manager task.
+Initial workspace for permission-manager
+

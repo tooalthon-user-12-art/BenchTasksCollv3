@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for data-validator task.
+Please complete the implementation for data-validator in a beautiful way!
 
-## Requirements
-- Validate data entries
-- Check data formats
-- Generate validation reports
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for content-manager
 
-You are a helpful assistant helping with content management tasks.

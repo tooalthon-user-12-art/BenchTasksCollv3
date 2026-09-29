@@ -1,1 +1,2 @@
-This is the initial workspace for asset-optimizer task.
+Initial workspace for asset-optimizer
+

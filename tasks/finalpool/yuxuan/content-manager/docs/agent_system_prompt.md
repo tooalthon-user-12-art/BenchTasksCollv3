@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for content-manager task.
+Please complete the implementation for content-manager in a beautiful way!
 
-## Requirements
-- Manage content
-- Organize content
-- Generate content reports
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

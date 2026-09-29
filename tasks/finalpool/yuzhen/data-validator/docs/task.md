@@ -1,14 +1,5 @@
 # Task: data-validator
 
-## Overview
-This task involves implementing a data validation system.
+## Description
+Complete the implementation for data-validator
 
-## Requirements
-- Validate data entries
-- Check data formats
-- Generate validation reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

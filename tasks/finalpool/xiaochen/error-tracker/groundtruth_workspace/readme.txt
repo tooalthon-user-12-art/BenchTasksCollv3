@@ -1,1 +1,2 @@
-This is the groundtruth workspace for error-tracker task.
+Groundtruth data for error-tracker
+

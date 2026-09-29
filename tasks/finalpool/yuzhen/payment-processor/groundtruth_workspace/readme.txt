@@ -1,1 +1,2 @@
-This is the groundtruth workspace for payment-processor task.
+Groundtruth data for payment-processor
+

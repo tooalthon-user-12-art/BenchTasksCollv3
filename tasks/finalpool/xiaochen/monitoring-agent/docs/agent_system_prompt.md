@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for monitoring-agent task.
+Please complete the implementation for monitoring-agent in a beautiful way!
 
-## Requirements
-- Monitor system metrics
-- Alert on anomalies
-- Generate monitoring reports
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

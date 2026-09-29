@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for asset-optimizer task.
+Please complete the implementation for asset-optimizer in a beautiful way!
 
-## Requirements
-- Optimize assets
-- Manage asset libraries
-- Generate optimized outputs
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

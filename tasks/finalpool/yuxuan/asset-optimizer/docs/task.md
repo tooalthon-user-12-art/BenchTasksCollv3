@@ -1,14 +1,5 @@
 # Task: asset-optimizer
 
-## Overview
-This task involves implementing an asset optimizer.
+## Description
+Complete the implementation for asset-optimizer
 
-## Requirements
-- Optimize assets
-- Manage assets
-- Generate outputs
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

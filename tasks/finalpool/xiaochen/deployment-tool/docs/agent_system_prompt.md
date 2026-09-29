@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for deployment-tool task.
+Please complete the implementation for deployment-tool in a beautiful way!
 
-## Requirements
-- Deploy applications
-- Manage deployment configurations
-- Handle deployment errors
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.
