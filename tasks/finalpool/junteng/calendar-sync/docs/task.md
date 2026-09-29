@@ -1,14 +1,5 @@
 # Task: calendar-sync
 
-## Overview
-This task involves implementing a calendar sync system.
+## Description
+Complete the implementation for calendar-sync
 
-## Requirements
-- Sync calendar data
-- Handle events
-- Generate reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

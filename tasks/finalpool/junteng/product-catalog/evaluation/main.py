@@ -1,4 +1,4 @@
-# Evaluation script for calendar-sync
+# Evaluation script for product-catalog
 
 def run_evaluation():
     # TODO: Implement actual evaluation logic

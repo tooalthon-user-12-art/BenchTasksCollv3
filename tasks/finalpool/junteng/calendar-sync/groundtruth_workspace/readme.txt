@@ -1,1 +1,2 @@
-This is the groundtruth workspace for calendar-sync task.
+Groundtruth data for calendar-sync
+

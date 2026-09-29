@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for calendar-sync
 
-You are a helpful assistant helping with calendar sync tasks.

@@ -1,1 +1,2 @@
-This is the initial workspace for email-classification-system task.
+Initial workspace for email-classification-system
+

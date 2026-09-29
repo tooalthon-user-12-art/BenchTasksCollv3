@@ -1,1 +1,2 @@
-This is the initial workspace for order-processor task.
+Initial workspace for order-processor
+

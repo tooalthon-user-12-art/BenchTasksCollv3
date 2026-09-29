@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for qr-generator
 
-You are a helpful assistant helping with QR code generation tasks.

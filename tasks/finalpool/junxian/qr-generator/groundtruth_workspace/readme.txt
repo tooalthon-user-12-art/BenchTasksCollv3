@@ -1,1 +1,2 @@
-This is the groundtruth workspace for qr-generator task.
+Groundtruth data for qr-generator
+

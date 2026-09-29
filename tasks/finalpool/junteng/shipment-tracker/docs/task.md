@@ -1,14 +1,5 @@
 # Task: shipment-tracker
 
-## Overview
-This task involves implementing a shipment tracking system.
+## Description
+Complete the implementation for shipment-tracker
 
-## Requirements
-- Track package shipments
-- Monitor delivery status
-- Generate tracking reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

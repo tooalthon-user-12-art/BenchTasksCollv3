@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for canvas-grade-automation task.
+Please complete the implementation for canvas-grade-automation in a beautiful way!
 
-## Requirements
-- Automate canvas grading
-- Handle grade entries
-- Generate grade reports
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

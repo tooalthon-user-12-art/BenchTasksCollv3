@@ -1,1 +1,2 @@
-This is the groundtruth workspace for booking-system task.
+Groundtruth data for booking-system
+

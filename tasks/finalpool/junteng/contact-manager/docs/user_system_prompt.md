@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for contact-manager
 
-You are a helpful assistant helping with contact management tasks.

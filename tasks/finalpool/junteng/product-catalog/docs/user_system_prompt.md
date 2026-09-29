@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for product-catalog
 
-You are a helpful assistant helping with product catalog tasks.

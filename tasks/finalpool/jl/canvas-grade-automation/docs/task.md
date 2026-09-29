@@ -1,14 +1,5 @@
 # Task: canvas-grade-automation
 
-## Overview
-This task involves implementing a canvas grade automation system.
+## Description
+Complete the implementation for canvas-grade-automation
 
-## Requirements
-- Automate grade entry
-- Handle grade data
-- Generate reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for product-catalog task.
+Please complete the implementation for product-catalog in a beautiful way!
 
-## Requirements
-- Manage product listings
-- Organize catalog data
-- Provide search functionality
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

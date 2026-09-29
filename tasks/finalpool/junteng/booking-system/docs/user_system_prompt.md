@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for booking-system
 
-You are a helpful assistant helping with booking system tasks.
