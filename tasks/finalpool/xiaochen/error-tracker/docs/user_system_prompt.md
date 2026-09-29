@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for error-tracker
 
-You are a helpful assistant helping with error tracking tasks.

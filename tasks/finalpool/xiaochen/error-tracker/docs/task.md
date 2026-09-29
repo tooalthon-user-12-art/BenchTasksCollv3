@@ -1,14 +1,5 @@
 # Task: error-tracker
 
-## Overview
-This task involves implementing an error tracking system.
+## Description
+Complete the implementation for error-tracker
 
-## Requirements
-- Record errors
-- Categorize errors
-- Generate error reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

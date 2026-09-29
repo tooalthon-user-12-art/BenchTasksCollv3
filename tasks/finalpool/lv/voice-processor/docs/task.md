@@ -1,14 +1,5 @@
 # Task: voice-processor
 
-## Overview
-This task involves implementing a voice processing system.
+## Description
+Complete the implementation for voice-processor
 
-## Requirements
-- Process voice input
-- Handle audio formats
-- Generate text output
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

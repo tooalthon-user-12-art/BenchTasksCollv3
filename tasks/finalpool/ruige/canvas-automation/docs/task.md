@@ -1,14 +1,5 @@
 # Task: canvas-automation
 
-## Overview
-This task involves implementing a canvas automation system.
+## Description
+Complete the implementation for canvas-automation
 
-## Requirements
-- Automate canvas operations
-- Handle tasks
-- Generate reports
-
-## Implementation Guidelines
-- Use Python
-- Follow the coding standards
-- Include proper documentation

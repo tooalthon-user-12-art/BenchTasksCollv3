@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for expense-tracker
 
-You are a helpful assistant helping with expense tracking tasks.

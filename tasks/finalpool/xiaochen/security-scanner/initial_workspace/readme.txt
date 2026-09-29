@@ -1,1 +1,2 @@
-This is the initial workspace for security-scanner task.
+Initial workspace for security-scanner
+

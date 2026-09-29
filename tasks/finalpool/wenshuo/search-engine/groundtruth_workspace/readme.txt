@@ -1,1 +1,2 @@
-This is the groundtruth workspace for search-engine task.
+Groundtruth data for search-engine
+

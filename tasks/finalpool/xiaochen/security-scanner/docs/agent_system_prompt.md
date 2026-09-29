@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for security-scanner task.
+Please complete the implementation for security-scanner in a beautiful way!
 
-## Requirements
-- Scan for security vulnerabilities
-- Generate security reports
-- Handle scan configurations
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

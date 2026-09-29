@@ -1,1 +1,2 @@
-This is the groundtruth workspace for security-scanner task.
+Groundtruth data for security-scanner
+

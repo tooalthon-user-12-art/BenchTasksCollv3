@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for chat-bot
 
-You are a helpful assistant helping with chat bot tasks.

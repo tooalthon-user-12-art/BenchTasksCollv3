@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for voice-processor
 
-You are a helpful assistant helping with voice processing tasks.

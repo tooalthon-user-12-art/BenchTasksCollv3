@@ -1,1 +1,2 @@
-This is the groundtruth workspace for data-analytics task.
+Groundtruth data for data-analytics
+

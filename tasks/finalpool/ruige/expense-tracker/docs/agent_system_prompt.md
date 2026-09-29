@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for expense-tracker task.
+Please complete the implementation for expense-tracker in a beautiful way!
 
-## Requirements
-- Track expenses
-- Generate expense reports
-- Categorize expenses
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

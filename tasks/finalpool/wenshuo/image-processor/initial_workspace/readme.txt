@@ -1,1 +1,2 @@
-This is the initial workspace for image-processor task.
+Initial workspace for image-processor
+

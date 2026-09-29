@@ -1,1 +1,2 @@
-This is the initial workspace for canvas-automation task.
+Initial workspace for canvas-automation
+
