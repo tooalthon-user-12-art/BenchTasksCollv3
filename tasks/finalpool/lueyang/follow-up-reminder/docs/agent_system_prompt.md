@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for follow-up-reminder task.
+Please complete the implementation for follow-up-reminder in a beautiful way!
 
-## Requirements
-- Send follow-up reminders
-- Manage reminder schedules
-- Handle reminder responses
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

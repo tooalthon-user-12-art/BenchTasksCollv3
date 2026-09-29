@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for activity-logger
 
-You are a helpful assistant helping with activity logging tasks.

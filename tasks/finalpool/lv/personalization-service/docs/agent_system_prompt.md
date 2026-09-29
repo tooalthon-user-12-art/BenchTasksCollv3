@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for personalization-service task.
+Please complete the implementation for personalization-service in a beautiful way!
 
-## Requirements
-- Provide personalized content
-- Track user preferences
-- Generate recommendations
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for voice-processor task.
+Please complete the implementation for voice-processor in a beautiful way!
 
-## Requirements
-- Process voice input
-- Handle audio formats
-- Generate text output
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

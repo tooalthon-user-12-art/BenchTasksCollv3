@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for crm-system
 
-You are a helpful assistant helping with CRM system tasks.

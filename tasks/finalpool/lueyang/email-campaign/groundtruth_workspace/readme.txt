@@ -1,1 +1,2 @@
-This is the groundtruth workspace for email-campaign task.
+Groundtruth data for email-campaign
+

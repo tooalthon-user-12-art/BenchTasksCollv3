@@ -1,1 +1,2 @@
-This is the initial workspace for translation-api task.
+Initial workspace for translation-api
+

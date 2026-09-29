@@ -1,1 +1,2 @@
-This is the initial workspace for feedback-collector task.
+Initial workspace for feedback-collector
+

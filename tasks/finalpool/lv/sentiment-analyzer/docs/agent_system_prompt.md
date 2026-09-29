@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for sentiment-analyzer task.
+Please complete the implementation for sentiment-analyzer in a beautiful way!
 
-## Requirements
-- Analyze sentiment in text
-- Classify emotions
-- Generate sentiment reports
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

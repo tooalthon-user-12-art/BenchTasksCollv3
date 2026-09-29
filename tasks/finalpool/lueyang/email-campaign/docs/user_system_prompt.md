@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for email-campaign
 
-You are a helpful assistant helping with email campaign tasks.

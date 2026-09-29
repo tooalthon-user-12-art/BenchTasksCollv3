@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for follow-up-reminder
 
-You are a helpful assistant helping with follow-up reminder tasks.

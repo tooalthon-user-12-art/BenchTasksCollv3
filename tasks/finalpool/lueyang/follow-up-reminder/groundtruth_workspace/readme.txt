@@ -1,1 +1,2 @@
-This is the groundtruth workspace for follow-up-reminder task.
+Groundtruth data for follow-up-reminder
+

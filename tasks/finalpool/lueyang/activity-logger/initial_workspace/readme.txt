@@ -1,1 +1,2 @@
-This is the initial workspace for activity-logger task.
+Initial workspace for activity-logger
+

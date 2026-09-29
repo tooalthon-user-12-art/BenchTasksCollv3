@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for feedback-collector
 
-You are a helpful assistant helping with feedback collection tasks.

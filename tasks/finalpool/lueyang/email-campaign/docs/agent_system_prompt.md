@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for email-campaign task.
+Please complete the implementation for email-campaign in a beautiful way!
 
-## Requirements
-- Manage email campaigns
-- Send campaign emails
-- Track campaign performance
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.
