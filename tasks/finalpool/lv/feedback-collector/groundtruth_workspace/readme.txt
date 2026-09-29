@@ -1,1 +1,1 @@
-Sample groundtruth
+This is the groundtruth workspace for feedback-collector task.

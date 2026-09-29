@@ -1,1 +1,1 @@
-Sample initial workspace
+This is the initial workspace for coupon-manager task.
