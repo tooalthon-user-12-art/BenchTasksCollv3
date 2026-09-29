@@ -1,12 +1,5 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for template-engine task.
+Please complete the implementation for template-engine in a beautiful way!
 
-## Requirements
-- Generate documents from templates
-- Handle template variables
-- Create document outputs
-
-## Evaluation
-The implementation will be evaluated based on correctness and completeness.

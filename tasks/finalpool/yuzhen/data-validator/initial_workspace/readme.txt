@@ -1,1 +1,2 @@
-This is the initial workspace for data-validator task.
+Initial workspace for data-validator
+
