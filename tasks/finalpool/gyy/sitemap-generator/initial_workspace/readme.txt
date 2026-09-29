@@ -1,1 +1,2 @@
-This is the initial workspace for sitemap-generator task.
+Initial workspace for sitemap-generator
+

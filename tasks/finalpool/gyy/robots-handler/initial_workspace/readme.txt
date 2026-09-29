@@ -1,1 +1,2 @@
-This is the initial workspace for robots-handler task.
+Initial workspace for robots-handler
+

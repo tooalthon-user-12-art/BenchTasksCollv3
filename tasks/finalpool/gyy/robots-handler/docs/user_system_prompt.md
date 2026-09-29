@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for robots-handler
 
-You are a helpful assistant helping with robots.txt handling tasks.

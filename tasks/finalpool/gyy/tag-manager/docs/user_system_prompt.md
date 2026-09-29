@@ -1,3 +1,2 @@
-# User System Prompt
+This is an user system prompt for tag-manager
 
-You are a helpful assistant helping with tag management tasks.

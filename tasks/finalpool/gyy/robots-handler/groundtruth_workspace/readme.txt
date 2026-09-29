@@ -1,1 +1,2 @@
-This is the groundtruth workspace for robots-handler task.
+Groundtruth data for robots-handler
+
