@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Evaluation script for chat-bot task."""
+"""Evaluation script for help-desk task."""
 
 import sys
 import os
 
 def main():
-    print("Starting evaluation for chat-bot...")
+    print("Starting evaluation for help-desk...")
     # Evaluation logic here
     pass
 

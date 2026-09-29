@@ -1,12 +1,12 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for network-analyzer task.
+Please complete the implementation for robots-handler task.
 
 ## Requirements
-- Analyze network traffic
-- Generate reports
-- Handle multiple formats
+- Handle robots.txt
+- Manage crawler directives
+- Generate robots.txt files
 
 ## Evaluation
 The implementation will be evaluated based on correctness and completeness.

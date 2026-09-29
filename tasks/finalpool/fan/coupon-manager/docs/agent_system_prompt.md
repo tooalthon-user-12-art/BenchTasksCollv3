@@ -4,7 +4,7 @@
 Please complete the implementation for coupon-manager task.
 
 ## Requirements
-- Manage coupons
+- Create and manage coupons
 - Generate coupon codes
 - Track coupon usage
 

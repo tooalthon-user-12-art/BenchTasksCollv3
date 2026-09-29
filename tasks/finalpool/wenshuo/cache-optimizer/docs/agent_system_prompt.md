@@ -1,12 +1,12 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for network-analyzer task.
+Please complete the implementation for cache-optimizer task.
 
 ## Requirements
-- Analyze network traffic
-- Generate reports
-- Handle multiple formats
+- Optimize caching strategies
+- Manage cache configurations
+- Handle cache invalidation
 
 ## Evaluation
 The implementation will be evaluated based on correctness and completeness.

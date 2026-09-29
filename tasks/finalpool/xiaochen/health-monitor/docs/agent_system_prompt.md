@@ -1,12 +1,12 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for network-analyzer task.
+Please complete the implementation for health-monitor task.
 
 ## Requirements
-- Analyze network traffic
-- Generate reports
-- Handle multiple formats
+- Monitor system health
+- Alert on issues
+- Generate health reports
 
 ## Evaluation
 The implementation will be evaluated based on correctness and completeness.

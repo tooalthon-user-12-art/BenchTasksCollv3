@@ -1,12 +1,12 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for network-analyzer task.
+Please complete the implementation for sitemap-generator task.
 
 ## Requirements
-- Analyze network traffic
-- Generate reports
-- Handle multiple formats
+- Generate XML sitemaps
+- Handle dynamic content
+- Manage sitemap indexes
 
 ## Evaluation
 The implementation will be evaluated based on correctness and completeness.

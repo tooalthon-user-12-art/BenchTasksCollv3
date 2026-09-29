@@ -1,12 +1,12 @@
 # Agent System Prompt
 
 ## General Requirements
-Please complete the implementation for network-analyzer task.
+Please complete the implementation for customer-portal task.
 
 ## Requirements
-- Analyze network traffic
-- Generate reports
-- Handle multiple formats
+- Provide customer portal
+- Manage customer accounts
+- Handle customer requests
 
 ## Evaluation
 The implementation will be evaluated based on correctness and completeness.
