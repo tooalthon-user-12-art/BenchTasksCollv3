@@ -1,0 +1,1 @@
+# Agent System Prompt\n\n## General Requirements\nPlease complete the implementation for inventory-management in a beautiful way!\n
