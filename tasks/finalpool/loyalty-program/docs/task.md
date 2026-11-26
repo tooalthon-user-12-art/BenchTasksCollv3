@@ -1,0 +1,1 @@
+# Task: loyalty-program\n\n## Description\nComplete the implementation for loyalty-program\n\n
