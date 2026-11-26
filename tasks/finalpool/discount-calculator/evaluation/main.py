@@ -1,0 +1,1 @@
+# Evaluation script for discount-calculator\n\ndef run_evaluation():\n    # TODO: Implement actual evaluation logic\n    return True\n\nif __name__ == '__main__':\n    result = run_evaluation()\n    if result:\n        print('Evaluation passed')\n    else:\n        print('Evaluation failed')\n

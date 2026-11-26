@@ -1,0 +1,1 @@
+# Task: discount-calculator\n\n## Description\nComplete the implementation for discount-calculator\n\n
